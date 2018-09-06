@@ -1,4 +1,8 @@
-# Collage Application Essays
+---
+author: Nick Venner
+date: 2018-09-02
+title: College Application Essay
+---
 ***If you have a background or other activity so intresting that you thing your application would be incomplete without it include it here:***
 
 In 2008, my life as a climate change actvist began, my parents had been in the buisness for a while, and told me about why they fight to protect the earth for future generations. Ever since that fateful day, I have tried my hardest to help make the world a better place, from working to encourage recycling initiatives at school, to giving presentations, and attending confrences, (including a training one by former VP Al Gore). But probably my most impactful work is Juliana V. US.
