@@ -2,6 +2,11 @@
 author: Nick Venner
 date: 2018-09-02
 title: College Application Essay
+thumbnailImagePosition: left
+thumbnailImage: https://i.redd.it/27fsl1lnbgmz.jpg
+coverImage: https://i.redd.it/27fsl1lnbgmz.jpg
+metaAlignment: center
+coverMeta: out
 ---
 ***If you have a background or other activity so interesting that you think your application would be incomplete without it include it here:***
 

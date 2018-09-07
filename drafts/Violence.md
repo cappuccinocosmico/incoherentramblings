@@ -12,7 +12,7 @@
 
 ## Emotional Violence
 *Nonfic*
-
+fafslfdklkdjflsdkiskd
 #### Evidence
 - Used as tool of power
   - *Emotional Violence is about control*
@@ -28,3 +28,6 @@
   - *
 - Pepole care about other pepoles conception of them more then most pepole think.
   - *Pepole will go to prison and face consequences to avoid disrespect*
+- Shame is the ultimate cause of Violence
+  - tons of quotes for this exist
+- Intent
