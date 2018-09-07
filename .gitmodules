@@ -1,3 +1,6 @@
 [submodule "themes/hyde"] 
   path = themes/hyde 
   url = git@github.com:htr3n/hyde-hyde.git
+[submodule "themes/tranquil"]
+	path = themes/tranquil
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git

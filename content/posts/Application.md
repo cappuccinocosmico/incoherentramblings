@@ -9,7 +9,7 @@ In 2008, my life as a climate change activist began, my parents had been in the 
 
 This is a lawsuit started by the organization Our Children's Trust, the main aim of the case is to address climate change through the court system, the case has gotten ***Quite a lot of press coverage*** (add praise for the case here), and although the case still has a long way to go after trial, I remain hopeful that the case will move forward successfully.
 
-I got involved in the case freshman year of high school and since then its been a journey of various legal battles, culminating in trial this August despite the trump administrations best attempts to stop the trial.
+I got involved in the case freshman year of high school and since then its been a journey of various legal battles, I have flown out to oregon about 5 times for various legal actions, culminating in trial this August despite the trump administrations best attempts to stop the trial.
 
 I have been asked by a lot of people if the goal of my work is to "*save the planet*", every time I am asked a question like that I like to respond like "The planet will be fine, human civilization on the other hand...", and while that might be a bit hyperbolic, I joined this lawsuit because I thought it was a way that I could help the world become a better place. One of the main arguments that we make in our case is that the children of the world and future generations are being discriminated against on climate change because we will have to live in a future where the impacts of climate change are much much worse.
 

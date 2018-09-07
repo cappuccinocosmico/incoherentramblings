@@ -1,0 +1,3 @@
+[submodule "themes/hyde"] 
+  path = theme/hydegit@github.com:htr3n/hyde-hyde.git 
+  url = git://url-of-source/
