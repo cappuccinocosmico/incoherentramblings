@@ -36,7 +36,7 @@ canonifyurls = true
 
 [author]
   name = "Nick Venner"
-  bio = "Just a person suing the trump administration"
+  bio = "Just someone into advanced text editors, sociaital reform, climate change activism, suing the Trump Administration about said activism, and differential equations"
   job = "Student"
   location = "Colorado"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
