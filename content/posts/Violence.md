@@ -1,5 +1,10 @@
 ---
   Title: Why Pepole Resort to Violence
+  thumbnailImagePosition: left
+  thumbnailImage: https://pre00.deviantart.net/dde6/th/pre/f/2017/286/2/c/my_imagination_by_ryky-dbqfy15.png
+  coverImage: https://pre00.deviantart.net/dde6/th/pre/f/2017/286/2/c/my_imagination_by_ryky-dbqfy15.png
+  metaAlignment: center
+  coverMeta: out
 ---
 *In the short story *Bullet in the Brain*, Tobias Wolff writes a story that deals with both emotional and physical violence.
 
