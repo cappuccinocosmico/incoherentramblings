@@ -19,6 +19,7 @@ Descriptions of how you modified your design during the build process (did you s
 Flight observations: How did your plane perform?  Be detailed and use proper verbage.
 
 - The first model of the plane preformed realy realy well, except for the fact that the wings kept falling off... So I redesigned it some more after that.
+
 How did you further modify your plane? (realigned the vertical stabilizer, sanded the right wing to balance, etc.) Was the glider as stable as you expected? Why or why not might this be so?  What techniques did you use to “trim” the glider for straight and gently descending flight?   How many test flights were required to get the glider trimmed for long distance, straight-line flight? Was this expected? Why or why not?Be detailed on what you did and the desired outcome.
 
 - After the wings kept snapping off, I decided to change my wing design, I made them out of a single peice of wood (thus increasing both structural integrity and glue surface.) I also made it from a wider piece of wood (to make up for the fact that I had to make the wings shorter then they were in the original design so that I could conserve lifting surface)
