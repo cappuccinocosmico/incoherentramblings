@@ -1,4 +1,14 @@
- Design Process
+---
+author: Nick Venner
+date: 2018-10-01
+title: Glider Design
+thumbnailImagePosition: left
+thumbnailImage: https://www.cunim.org/wp-content/uploads/2017/11/cropped-Wilf-sunset-DG-1000_MG_0626.jpg
+coverImage: https://www.cunim.org/wp-content/uploads/2017/11/cropped-Wilf-sunset-DG-1000_MG_0626.jpg
+metaAlignment: center
+coverMeta: out
+---
+# Design Process
 Printout of your Aery design.
 Hand drawings of your design with dimension measurements.
 Descriptions of how you modified your design during the build process (did you sand the wood to make an airfoil? What thickness of wood did you use? Etc.)
@@ -13,11 +23,11 @@ How did you further modify your plane? (realigned the vertical stabilizer, sande
 - I realised that the problem might be the size of the stabilizer because the yaw might have been produced by a aesymetricly sanded aerofoil or the inconsistent density of the balsa wood. The way to fix this I thought was to increase the size of the vertical stabilizer, making sure to glue it on straight.
 
 Explanations for how you went about making it fly – Be specific – Summarize concepts of glider stability and how the modification will address the issue (Center of gravity, center of lift, pitch, yaw, roll, lateral stability)  I am going to change __________ because _______________.  Did you think about difficulties in construction?
-- The principles of flight have always guided my design, both in the development process and how I have changed my plane to suit my needs
+- The principles of flight have always guided my design, both in the development process and how I have changed my plane to suit my needs, Including my final changes, mostly in the process of finding a way to balance the plane so that it would fly sucessfuly. (Mostly through adding mass in the nose.)
 A picture of your finished glider:  Printed and placed in your notebook along with one submitted digitally.
 Final distance flown. Observations about your competition flights.
 
-Reflection Questions
+# Reflection Questions
 If your grade were solely dependent on the distance flown, how would you change your design?
 - If possible I would add a firing mechanism that could use rubber bands, because the more energy you can put into the flight it seems it preforms exponentialy better.
 After discussing the results (Aery flight number vs. distance) what conclusions can you make about the software?  Is it accurate?  Is you building ability more important than the design?
