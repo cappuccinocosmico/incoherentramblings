@@ -7,4 +7,4 @@ coverImage: https://i2.wp.com/www.climateliabilitynews.org/wp-content/uploads/20
 metaAlignment: center
 coverMeta: out
 ---
-As shown in 
+As shown in the photo above I am a member of the climate change lawsuit featuring noted Climate Scientist Jim Hansen
