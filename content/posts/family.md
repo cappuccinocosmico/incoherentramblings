@@ -7,7 +7,7 @@ coverImage: https://unsplash.com/photos/t6oZEgL0z18/download?force=true
 metaAlignment: center
 coverMeta: out
 ---
-#### In the short story *"Where are you going where have you been"* shows us a family where lack of communication and the unacceptance of another person, this prossess eventualy causes a cold and unhealthy dynamic between Connie and the rest of her family.
+#### In the short story *"Where are you going where have you been"* by Joyce Carol Oates shows us a family where lack of communication and the unacceptance of another person, this prossess eventualy causes a cold and unhealthy dynamic between Connie and the rest of her family.
 
 <!-- Connie: Neglect
 
@@ -17,18 +17,16 @@ Connie wanted to do that her mother had no objections.*
 > *Her parents and sister were going to a barbecue at an aunt's house and Connie said no, she wasn't interested, rolling her
 eyes to let her mother know just what she thought of it. "Stay home alone then," her mother said sharply. Connie sat out back in a lawn chair and watched them drive away* -->
 
-The story starts off with describing the family situation of the main character Connie, is describing the relationship with her mother and sister June specificly how unnaccepting they are.
-*Connie had to hear her praised all the time by her mother and her mother's sisters. June did this, June did that, she saved money and helped clean the house and cooked and Connie couldn't do a thing, her mind was all filled with trashy daydreams.*
-In this one quote it shows how abuse and unnacceptance have damanged the family dynamic. But this isnt all, there are a lot of instances of neglect and abandonment by the father who "
-*Their father was away at work most of the time and when
-he came home he wanted supper and he read the newspaper at supper and after supper he went to bed. He didn't bother talking
-much to them,*"
-
-
+The story starts off with describing the family situation of the main character Connie, is describing the relationship with her mother and her mothers sisters specificly how unnaccepting they are of connie bu constantly comparing her to her sister.
+"Connie had to hear her praised all the time by her mother and her mother's sisters. June did this, June did that, she saved money and helped clean the house and cooked and Connie couldn't do a thing, her mind was all filled with trashy daydreams" *Oates 1*.
+In this one quote it shows how abuse and unnacceptance have damanged the family dynamic. It damages Connie, by comparing her to her sister, they are causing an unhealthy family dynamic But this isnt all, there are a lot of instances of neglect and abandonment by the father who "
+Their father was away at work most of the time and when
+he came home he wanted supper and he read the newspaper at supper and after supper he went to bed. He didn't bother talking much to them," *Oates 1*
 All of this familial abuse eventualy comes back to cause severe problems. After a long conversation where Arnald Friend has terrified Connie into her house, and is using her poor family dynamic to convice her to go with him.
->*"The place where you came from ain't there any more, and
+"The place where you came from ain't there any more, and
 where you had in mind to go is cancelled out. This place you are now—inside your daddy's house—is nothing but a cardboard box I
-can knock down any time."*
+can knock down any time." *Oates 9* This shows the ultimate consequence of a poor family dynamic. As it leads to arnald's ultimate sucess. As he sucessfuly leads Connie away from her family and to her death/rape/kidnaping. The story asks us to consider how this scene would have played out differently if connie had had a better family situation, and in doing so it shows us the consequences of a family gone wrong.
+
 <!--
 The story so far describes the family dramas of Connie, it shows that her family often *compares her unfavorably to her sister*, and are noticably distant. Once she declines her family obligations on a barbaque. *A car shows up then she has a peculiar conversation with a mysterious character called Arnald Friend.* He talks in riddles and seems to be hiding a secret, and
 
