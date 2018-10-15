@@ -1,3 +1,12 @@
+---
+author: Nick Venner
+title: Love v Lust
+thumbnailImagePosition: left
+thumbnailImage: https://imgs.xkcd.com/comics/valentine.jpg
+coverImage: https://imgs.xkcd.com/comics/valentine.jpg
+metaAlignment: center
+coverMeta: out
+---
 # Love v Lust
 #### In the short story *Keith* Ron Carlson writes a story about the differences between love vs lust, both of witch can be seen in the relationship between Keith and Barbra.
 
