@@ -10,6 +10,7 @@
 1 Arid Mesa
 1 Bloodstained Mire
 1 City of Brass
+1 Izzet Boilerworks
 1 Command Tower
 1 Flooded Strand
 1 Mana Confluence
@@ -17,7 +18,7 @@
 1 Polluted Delta
 1 Scalding Tarn
 1 Shivan Reef
-11 Island
+10 Island
 2 Mountain
 1 Steam Vents
 1 Sulfur Falls
@@ -29,7 +30,7 @@
 1 Gitaxian Probe
 1 Merchant Scroll
 1 Mind's Desire
-1 Thousand-][Year Storm
+1 Thousand-Year Storm
 1 Past in Flames
 1 Personal Tutor
 1 Ponder
@@ -37,12 +38,12 @@
 1 Serum Visions
 1 Sleight of Hand
 1 Time Spiral
+1 Muddle the Mixture
 1 Timetwister
 1 Transmute Artifact
 1 Wheel of Fortune
 1 Windfall
 1 Brainstorm
-1 Capsize
 1 Counterspell
 1 Cyclonic Rift
 1 Delay
@@ -61,9 +62,7 @@
 1 Mystical Tutor
 1 Pact of Negation
 1 Pyroblast
-1 Rebuild
 1 Red Elemental Blast
-1 Reiterate
 1 Snap
 1 Spell Pierce
 1 Swan Song
@@ -82,6 +81,9 @@
 1 Memory Jar
 1 Mox Diamond
 1 Mox Opal
+1 prismatic lens
+1 gilded lotus
+1 coldsteel heart
 1 Paradox Engine
 1 Sensei's Divining Top
 1 Sol Ring
