@@ -15,7 +15,7 @@
 1 Enlightened Tutor
 1 Entreat the Angels
 1 Eternal Witness
-8 Forest
+7 Forest
 1 Freyalise, Llanowar's Fury
 1 Gaea's Cradle
 1 Gavony Township
@@ -35,7 +35,7 @@
 1 Oblation
 1 Parallel Lives
 1 Pendelhaven
-8 Plains
+7 Plains
 1 Priest of Titania
 1 Primal Vigor
 1 Privileged Position
@@ -83,3 +83,5 @@
 1 launch the fleet
 1 grafdigger's cage
 1 bountiful promenade
+1 secure the wastes
+1 honor of the pure
