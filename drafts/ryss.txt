@@ -28,11 +28,9 @@
 1 Kodama's Reach
 1 Krosan Grip
 1 Land Tax
-1 Leyline of Vitality
 1 Martial Coup
 1 Mirari's Wake
 1 Nykthos, Shrine to Nyx
-1 Oblation
 1 Parallel Lives
 1 Pendelhaven
 7 Plains
@@ -85,3 +83,5 @@
 1 bountiful promenade
 1 secure the wastes
 1 honor of the pure
+1 oblivion ring
+1 rule of law
