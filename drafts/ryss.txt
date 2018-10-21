@@ -1,0 +1,85 @@
+1 guttural response
+1 Acidic Slime
+1 Ancient Tomb
+1 Aura Shards
+1 Beastmaster Ascension
+1 Cryptolith Rite
+1 fragmentize
+1 Command Tower
+1 Craterhoof Behemoth
+1 Crop Rotation
+1 Cultivate
+1 Nature's Claim
+1 Doubling Season
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Entreat the Angels
+1 Eternal Witness
+8 Forest
+1 Freyalise, Llanowar's Fury
+1 Gaea's Cradle
+1 Gavony Township
+1 Genesis Wave
+1 Glare of Subdual
+1 Horizon Canopy
+1 Hornet Queen
+1 Idyllic Tutor
+1 Intangible Virtue
+1 Kodama's Reach
+1 Krosan Grip
+1 Land Tax
+1 Leyline of Vitality
+1 Martial Coup
+1 Mirari's Wake
+1 Nykthos, Shrine to Nyx
+1 Oblation
+1 Parallel Lives
+1 Pendelhaven
+8 Plains
+1 Priest of Titania
+1 Primal Vigor
+1 Privileged Position
+1 Razorverge Thicket
+1 Nature's Lore
+1 Reliquary Tower
+1 Replenish
+1 Return to Dust
+1 Savannah
+1 Seedborn Muse
+1 Selesnya Sanctuary
+1 Selesnya Signet
+1 serra ascendant
+1 Skullclamp
+1 Sol Ring
+1 Sterling Grove
+1 Stirring Wildwood
+1 Sublime Archangel
+1 Sunpetal Grove
+1 Sylvan Library
+1 Sylvan Scrying
+1 Temple Garden
+1 Temple of Plenty
+1 Tooth and Nail
+1 Triumph of the Hordes
+1 True Conviction
+1 Voice of Resurgence
+1 Wilt-Leaf Liege
+1 Windswept Heath
+1 Wooded Bastion
+1 anointed procession
+1 mana crypt
+1 mana vault
+1 second harvest
+1 chrome mox
+1 mox diamond
+1 divine visitation
+1 grim monolith
+1 elvish archdruid
+1 earthcraft
+1 squirrel nest
+1 autumn's veil
+1 sundering growth
+1 hall of gemstone
+1 launch the fleet
+1 grafdigger's cage
+1 bountiful promenade
