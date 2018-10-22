@@ -16,13 +16,10 @@
 1 Entreat the Angels
 1 Eternal Witness
 7 Forest
-1 Freyalise, Llanowar's Fury
 1 Gaea's Cradle
 1 Gavony Township
-1 Genesis Wave
 1 Glare of Subdual
 1 Horizon Canopy
-1 Hornet Queen
 1 Idyllic Tutor
 1 Intangible Virtue
 1 Kodama's Reach
@@ -51,13 +48,11 @@
 1 Sol Ring
 1 Sterling Grove
 1 Stirring Wildwood
-1 Sublime Archangel
 1 Sunpetal Grove
 1 Sylvan Library
 1 Sylvan Scrying
 1 Temple Garden
-1 Temple of Plenty
-1 Tooth and Nail
+1 Flooded Strand
 1 Triumph of the Hordes
 1 True Conviction
 1 Voice of Resurgence
@@ -85,3 +80,8 @@
 1 honor of the pure
 1 oblivion ring
 1 rule of law
+1 warriors' lesson
+1 hallowed moonlight
+1 shamanic revelation
+1 collective unconscious
+1 camaraderie
