@@ -8,7 +8,7 @@
 1 Command Tower
 1 Craterhoof Behemoth
 1 Crop Rotation
-1 Cultivate
+1 Skyshroud Claim
 1 Nature's Claim
 1 Doubling Season
 1 Eladamri's Call
@@ -22,12 +22,11 @@
 1 Horizon Canopy
 1 Idyllic Tutor
 1 Intangible Virtue
-1 Kodama's Reach
+1 three visits
 1 Krosan Grip
 1 Land Tax
 1 Martial Coup
 1 Mirari's Wake
-1 Nykthos, Shrine to Nyx
 1 Parallel Lives
 1 Pendelhaven
 7 Plains
@@ -54,7 +53,6 @@
 1 Temple Garden
 1 Flooded Strand
 1 Triumph of the Hordes
-1 True Conviction
 1 Voice of Resurgence
 1 Wilt-Leaf Liege
 1 Windswept Heath
@@ -72,7 +70,6 @@
 1 squirrel nest
 1 autumn's veil
 1 sundering growth
-1 hall of gemstone
 1 launch the fleet
 1 grafdigger's cage
 1 bountiful promenade
@@ -85,3 +82,7 @@
 1 ethersworn cannonist
 1 shamanic revelation
 1 camaraderie
+1 staff of domination
+1 green sun zenith
+1 dryad arbor
+1 deserted temple
