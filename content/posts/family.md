@@ -1,3 +1,4 @@
+
 ---
 author: Nick Venner
 title: Where are you going Where have you been
