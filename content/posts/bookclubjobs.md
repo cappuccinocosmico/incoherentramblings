@@ -21,14 +21,14 @@ The perseverance of soldiers is a theme strongly emphasized in The Yellow Birds.
 
 
     "I remember feeling relief in basic while everyone else was frantic with fear. It had dawned on me that I'd never have to make a decision again. That seemed freeing, but it gnawed at some part of me even then. Eventually, I had to learn that freedom is not the same thing as the absence of accountability."
-    -narrator (Bartle), chapter 2
+    -narrator, chapter 2
 
 The narrator recalls the naivety of his thoughts before going to war. The knowledge of not having to be responsible for anything seemed relieving. It is something that a young person, with not much experience, not knowing what he's getting into, would think.
 
 
 
     "It’s lovely to think that snow can be special. We’re always told it is. Of all those million million flakes that fall, no two are alike, forever and ever, amen. I’ve spent some time looking out the window of my cabin watching snowflakes fall like a shot dove’s feathers fluttering slowly down to the ground. They all look the same to me."
-    -narrator (Bartle), chapter 2
+    -narrator , chapter 2
 
 This shows the pessimism of a soldier that has been in the war, has seen the horrors of it. Too many young soldiers die, people are nothing but a number, and when they die they are all the same, no one is much more different than the other in death-just like snowflakes falling to the ground.
 # Session 3
