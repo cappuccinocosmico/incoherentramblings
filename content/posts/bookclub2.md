@@ -1,7 +1,3 @@
-# Session 1
-*Page 49*
-### Questions
-### Synthesis
 # Session 2
 *Page 72*
 ### Questions
@@ -22,8 +18,9 @@ The perseverance of soldiers is a theme strongly emphasized in The Yellow Birds.
     "I remember feeling relief in basic while everyone else was frantic with fear. It had dawned on me that I'd never have to make a decision again. That seemed freeing, but it gnawed at some part of me even then. Eventually, I had to learn that freedom is not the same thing as the absence of accountability."
     -Bartle, chapter 2
 
-The Bartle recalls the naivety of his thoughts before going to war. The knowledge of not having to be responsible for anything seemed relieving. It is something that a young person, with not much experience, not knowing what he's getting into, would think.
+Notes:
 Freedom Too VS Freedom From
+Its this marxian concept, there are 2 kinds of freedom, freedom to is the ability to do whatever you want its illustrated by this quote from better call saul "And you kicked in your own door because ... you know ... its a free country". Freedom from is the freedom from things like unemployment or medical debt. Because these 2 sides of freedom are important, because you cant be free to make your own decisions if you have those things weighing over you
 I probably nailed it on the head with this.
 
 
@@ -31,41 +28,5 @@ I probably nailed it on the head with this.
     -Bartle , chapter 2
 
 This shows the pessimism of a soldier that has been in the war, has seen the horrors of it. Too many young soldiers die, people are nothing but a number, and when they die they are all the same, no one is much more different than the other in death-just like snowflakes falling to the ground.
-
+Notes:
 Destruction of innocence
-
-# Session 3
-#### 112
-Passages
-
-
-    "I wanted to go to sleep and stay there, that’s all. A passive wish, one I didn’t push. Sure, there is a fine line between not wanting to wake up and actually wanting to kill yourself, and while I discovered you can walk that line for a long while without even noticing, anybody who is around you surely will, and then of course all kinds of unanswerable questions will not be far behind."
-    -narrator (Bartle), chapter 7
-
-If there is a fine line then that means that there is not much difference, if the line is fine then that line could easily be broken and from this it can clearly be seen that Bartle was close to suicide even though he seems to deny it. Sure you can walk the line for a long while but you are bound to fall from it at some point.
-
-
-    "I thought of my grandfather’s war. How they had destinations and purpose. How the next day we’d march out under a sun hanging low over the plains in the east. We’d go back into a city that had fought this battle yearly; a slow, bloody parade in fall to mark the change of season. We’d drive them out. We always had. We’d kill them. They’d shoot us and blow off our limbs and run into the hills and wadis, back into the alleys and dusty villages. Then they’d come back, and we’d start over by waving to them as they leaned against lampposts and unfurled green awnings while drinking tea in front of their shops. While we patrolled the streets, we’d throw candy to their children with whom we’d fight in the fall a few more years from now."
-    -narrator (Bartle), chapter 4
-
-Bartle realizes the pointlessness of war while walking into the city Al Tafar and seeing all the decay. How their only purpose is to kill each other while not so long ago they walked among each other. It is a ridiculous and hypocritical cycle of cruelty.
-Characters
-John Bartle
-The main character and the narrator of the novel he was thrown into war really young. He joined the army because he wanted to become a man. He was bullied in school because he liked to read, liked poetry. To Bartle war is pointless. It leaves young men physically and mentally crippled. He feels that he doesn't deserve the gratitude he is receiving upon returning from war, so he becomes isolated, haunted by what happened in Iraq and by the death of his companion Murph. He feels guilty for not keeping the promise he made to Murph's mother-that he will bring her son back. At the end he lets the memory of Murph go but the fact that he ends up living isolated in a cabin by the mountains tells us that the memory of war will never leave him.
-
-Daniel Murphy
-Daniel Murphy, a soldier only eighteen years old, is Bartle's companion that dies in Iraq. He is described as clumsy, small in frame and often smiling. Opposite to Bartle, who was able to survive through the atrocities of war, Murph couldn't handle what was happening in Iraq. After the only hope, the only compassion in the form of the female medic, that kept him somewhat sane and therefore alive was gone, he was then completely lost.
-|
-
-# Session 4
-*Page 148*
-### Characters
-### Art
-# Session 5
-*Page 191*
-### Art
-### Vocab & Jargon
-# Session 6
-*Page 226*
-### Vocab & Jargon
-### Synthesis
