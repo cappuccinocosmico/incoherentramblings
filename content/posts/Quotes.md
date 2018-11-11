@@ -1,3 +1,4 @@
+  
 Yellow highlight | Page: 4
 The war had killed thousands by September. Their bodies lined the pocked avenues at irregular intervals. They were hidden in alleys, were found in bloating piles in the troughs of the hills outside the cities, the faces puffed and green, allergic now to life. The war had tried its best to kill us all: man, woman, child. But it had killed fewer than a thousand soldiers like me and Murph. Those numbers still meant something to us as what passed for fall began. Murph and I had agreed. We didn’t want to be the thousandth killed. If we died later, then we died. But let that number be someone else’s milestone.
 

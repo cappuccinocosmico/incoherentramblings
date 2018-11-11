@@ -62,7 +62,33 @@ Daniel Murphy, a soldier only eighteen years old, is Bartle's companion that die
 # Session 4
 *Page 148*
 ### Characters
+Seargent Sterling
+
+Two qualities distinguish Sergeant Sterling from other soldiers: his bravery and his selflessness. Characterized by a willingness to sacrifice his entire being to military duty and the necessity of war, Sterling is also deeply devoted to protecting the men under his authority, including Bartle and Murph. Although he occasionally seems cruel or overly aggressive in battle, these are attitudes he consciously adopts to survive and ensure the soldiers’ success. At the same time, his brutality does extend beyond the war, as he viciously attacks a vulnerable bartender in Germany, suggesting that violence might be a way for him to cope with the physical and psychological stress of war. Sterling also reveals his sensitive nature through some of his actions, such as his suicide, which suggests that he was perhaps more emotionally vulnerable than he allowed people to witness.
+
+Bart's Mom
+
+Characterized primarily by the fear and relief she feels in relation to her son’s time in Iraq, Bartle’s mother proves confused by her son’s psychological trauma after the war. Although she does not impose her thoughts on him and tries to be as understanding as possible, her efforts at understanding Bartle are stifled by his own reluctance to express himself. Bartle’s mother thus remains a character marked by worry and confusion.
+### Vocab
+listless: having or showing little or no interest
+
+feign: to pretend to be affected by
+
+emanate:to spread out from a source
+
+opaque: not transparent
+
+distraught:deeply upset or agitated
+
+careen:an uncontrolled movement
+# Session 5
+*Page 191*
 ### Art
+### Vocab & Jargon
+# Session 6
+*Page 226*
+### Vocab & Jargon
+### Synthesis
 <!-- I really hope I'm not treading on toes starting these... please tell me if you'd rather I waited. I am enjoying your questions and observations, Casceil, and want to hear more... am just finding myself racing ahead and wanting to get my thoughts down while fresh...
 
 I find it interesting how poetic and disconnected this chapter is considering it's his homecoming. It's like the sections about the removed-from-reality war are the most real and solid, and the closer we get back to 'reality', the more dreamlike and unreal things become for him, which for me brings home brilliantly and subtly something about the experience of war that many accounts say more bluntly.
@@ -74,11 +100,3 @@ The imagery of him disappearing as he removes his uniform is also very powerful.
 reply | flag *
 
 Chapter 5 and 6 are all about the PTSD the soldiers are now showing. In chapter 5 Bartle is in an airport where he begins hallucinating about leaving a trail of sand behind him and refuses to let the airport bartender show any gratitude to Bartle defending our country. Chapter 6 tells that the war is getting more intense and its taking a toll on all of the soldier's mental stability.  -->
-# Session 5
-*Page 191*
-### Art
-### Vocab & Jargon
-# Session 6
-*Page 226*
-### Vocab & Jargon
-### Synthesis
