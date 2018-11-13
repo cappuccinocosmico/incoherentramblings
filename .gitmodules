@@ -19,3 +19,6 @@
 [submodule "themes/github-project-landing-page"]
 	path = themes/github-project-landing-page
 	url = git@github.com:nsomar/github-project-landing-page.git
+[submodule "content"]
+	path = content
+	url = git@github.com:cappuccinocosmico/uninteligablecontent.git
