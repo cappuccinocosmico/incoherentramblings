@@ -1,6 +1,6 @@
 # Session 1
 *Page 49*
-### Questions
+### Art
 ### Synthesis
 # Session 2
 *Page 72*
@@ -83,12 +83,63 @@ distraught:deeply upset or agitated
 careen:an uncontrolled movement
 # Session 5
 *Page 191*
-### Art
 ### Vocab & Jargon
+entropy:
+measure of disorder, also information
+
+apparition:
+a supernatural appearance
+
+reprieve
+to delay the impending punishment or sentence of a condemned person
+
+volition
+of one's own will
+
+culpable
+deserving blame
+
+innumerable
+countless
+
+lethargy
+the state of being unenergetic or lazy
+
+reconcilation
+the restoration of friendly relations
+
+goad
+to provoke or annoy
+
+abrasive
+capable of polishing or cleaning by rubbing or grinding
+
+### Questions
+Level 1:
+What symbolic thing is bart fighting for in this chapter.
+Does Bart suffer from ptsd.
+
+Level 2:
+Does the symbolic representation of the orchard mean anything in the grand scheme of the book.
+Was the war in iraq worth fighting?
+Why do pepole still show support for the Iraq War despite the costs and ultimate futility of it
+How does the actual treatments for ptsd effect real world soldiers
+
+Level 3:
+Is there anything worth going to war over, when you consider the psychological costs on the soldiers.
+Is innonce a concept worth fighting for.
+Why do soldiers fight for war even though they are aware of the costs.
+Do politicans go to war knowing the full costs on soldiers?
+
 # Session 6
 *Page 226*
-### Vocab & Jargon
+### Art
 ### Synthesis
+
+The Perseverance of Soldiers
+
+The perseverance of soldiers is a theme strongly emphasized in The Yellow Birds. It is a necessity in order to survive the war. On page 116, Powers demonstrates this theme in John Bartle's narration of a military operation: "I kept going. I kept going because Murph kept going and Sterling and the LT kept going and the other squads would keep going and I was terrified that I would be the one who did not." The polysyndeton in this quote (repetition of "and") creates an atmosphere of suspense and danger, suggesting that unity and determination in these soldiers is something inspired out of fear rather than confidence. From this passage, we can also assume that this feeling of fear is not something unique to John Bartle, but is instead the fuel for every soldier's conformity and obedience.
+
 <!-- I really hope I'm not treading on toes starting these... please tell me if you'd rather I waited. I am enjoying your questions and observations, Casceil, and want to hear more... am just finding myself racing ahead and wanting to get my thoughts down while fresh...
 
 I find it interesting how poetic and disconnected this chapter is considering it's his homecoming. It's like the sections about the removed-from-reality war are the most real and solid, and the closer we get back to 'reality', the more dreamlike and unreal things become for him, which for me brings home brilliantly and subtly something about the experience of war that many accounts say more bluntly.
@@ -100,3 +151,27 @@ The imagery of him disappearing as he removes his uniform is also very powerful.
 reply | flag *
 
 Chapter 5 and 6 are all about the PTSD the soldiers are now showing. In chapter 5 Bartle is in an airport where he begins hallucinating about leaving a trail of sand behind him and refuses to let the airport bartender show any gratitude to Bartle defending our country. Chapter 6 tells that the war is getting more intense and its taking a toll on all of the soldier's mental stability.  -->
+
+<!--
+
+Written by Iraq war veteran Kevin Powers, The Yellow Birds is a poignant, realistic story of the complex dynamics of life on the battlefield. The book was critically acclaimed, winning many awards, including the 2013 Hemingway Foundation Award. Kevin Powers served as a machine gunner in Iraq after enlisting in the army at age 17. After the army, he went on to receive his Bachelor's Degree in English, and began working on The Yellow Birds, which would be his debut novel. It is semi-autographical, drawing on his personal experiences serving in the war.
+
+The book follows protagonist Private John Bartle through a range of backdrops: fighting in Al Tafar, Iraq, then life in Fort Fix, New Jersey, and multiple other locations. After his enlistment, John meets fellow private Murph, and makes a promise to Murph's mother that he will not let her son die.
+
+The novel focuses on the psychological toll of war on a soldier. John is extremely emotionally affected by the life-threatening exploits he takes part in. As Powers said, "I wanted to show the whole picture. It's not just: you get off the plane, you're back home, everything's fine. Maybe the physical danger ends, but soldiers are still deeply at risk of being injured in a different way. I thought it was important to acknowledge that."
+ -->
+ <!-- 8 (Al Tafar, 2004)
+
+After the orchard fight things appear to be calmed down with soldiers taking two day shifts and one day rest. Murph became distant and Bartle is worried about him and starts to follow him. He finds him in front of a medic station looking at one of the girl medics. Suddenly the mortars begin to fall and there is chaos. After the situation calms down Bartle reaches a chapel. Murph and another soldier are crouching and trying to resuscitate the girl medic but it's too late. Then they carry the girl to the medic station. The sun set.
+
+Analysis
+
+Murph is distant and looks at the medic girl because he sees in her hope, compassion which is a rare sight there. The girl's death is when Murph is completely gone and there is no bringing him back. He is completely broken down and his death at his point seems inevitable.
+
+9 (Richmond, Virginia, 2005)
+
+Bartle is living alone in an apartment. He still hardly ever goes out and he became a heavy drinker. One evening Captain from The Criminal Investigation Division comes to see him. Bartle couldn't hide from them forever. It is brought to knowledge that Sergeant Sterling committed suicide. Captain questions him about the letter he wrote to Murph's mother. He handcuffs Bartle and they leave his apartment. On the way to the car Bartle throws his and Murph's casualty feeder cards into the river.
+
+Analysis
+
+Both the Captain and Bartle are aware that his arrest is needed because someone needs to be blamed for what happened it doesn't matter what the truth is. Bartle throwing away the cards in the river is symbolic because it shows that he is finally ready to stop hiding, to face the truth and eventually overcome it. -->
