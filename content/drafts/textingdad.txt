@@ -1,0 +1,12 @@
+Hi dad, In order to do this properly this is going to be a way for me to beam commands to you
+
+So if it isnt working do this
+
+isnt this obvious???
+
+git reset --hard 71cd5cdd076d43fe1eff5fc613e4254ae2eca356
+
+
+afterwards browse https://themes.gohugo.io/
+
+for stuff ok!
