@@ -2,10 +2,12 @@ Think about your ability to use and understand written and verbal Spanish withou
 Highlight where your abilities currently lie on the provided rubric for each category -
 
 What language do I use?
+
 I think that I am pretty good at trying to communicate an idea using my known vocabulary, searching for synonyms and other things. Although I still struggle a lot with verb conjugation. Proficient
 
 
 How do I use the language?
+
 I can use the language pretty well, even though when i am forced to use it in practice it is hard to keep pace understanding what is being said. But that's kind of to be expected after only a year of spanish. Proficient.
 
 
