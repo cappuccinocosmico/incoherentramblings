@@ -10,8 +10,6 @@ How do I use the language?
 
 I can use the language pretty well, even though when i am forced to use it in practice it is hard to keep pace understanding what is being said. But that's kind of to be expected after only a year of spanish. Proficient.
 
-
-
 How well am I understood?
 
 This is currently my biggest weakness, I have a significant amount of trouble conjugating and changing words, the rules seem quite difficult, and it gets in the way of me saying things effectively. Some of the accents that change the pronunciation of words tend to also be quite difficult Partially Proficient.
