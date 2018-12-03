@@ -1,6 +1,8 @@
 
 # In the book *The Yellow Birds* by Kevin Powers, violence is described as a vicious cycle, caused by the need to preserve ones mind against the horrors of war, as well as the need for dominance and control.
 
+
+
 The most common example in the book for how violence begets more violence is the mind's tendancy to snap under pressure, especialy when dealing with the horrors of war. We see emotional damage to the main protagonist when he is traveling to the airport to pick up his mother, when he starts hallucinating about the horrors of war. "The ghosts of the dead filled the empty seats of every gate I passed: boys destroyed by mortars and rockets and bullets and IEDs to the point that when we tried to get them to a medevac, the skin slid off, or limbs barely held in place detached." (Powers 104) This shows that the commiters of violence often have to deal with the traumatic memories of there acts. In this scene we see his mind snap under the pressure of the things that he had witnessed during the war, specificly all the death and brutality that acompenies it. We see that in this situation he isolates himself from society and even becomes violent when he beats up a bartender. The next big example of this occors twards the end of the novel when Sterling and Bartle learn of Murph's death. They dont want to bring his body home so they dump it in a river. And not wanting the word to get out about his death this happens."He floated off quickly in the steady current, and in the water past the bulrushes little pools formed where his eyes had been. “Like it never happened, Bartle. That’s the only way,” Sterling said. “Yeah, I know.” I looked at the ground. The dust blowing in fine swirls around my boots. I knew what was coming. Sterling shot the cartwright once, in the face, and he crumpled to the ground."(Powers 212) This shows that in trying to avoid trauma about the horrors of war, we see them murder an innocent iraqi, (in turn causing more trauma for the family of the victim), it shows that in the process of trying to preserve ther mind, and the minds of others. They murder a innocent man to try to make Murph's mother feel better. All of these combined show that a way to deal with the horrors of war is for ones self to commit violence, and in turn those violent acts in turn cause trauma to other pepole, causing the cycle of violence to continue.
 
 <!-- The story starts off with describing the family situation of the main character Connie, is describing the relationship with her mother and her mothers sisters specificly how unnaccepting they are of connie bu constantly comparing her to her sister.
@@ -57,6 +59,8 @@ We walked the body in the cart down to the edge of the river. The hermit walked 
 
 
 
+
+# In the book *The Yellow Birds* by Kevin Powers, violence is described as a vicious cycle, caused by the need to preserve ones mind against the horrors of war, as well as the need for dominance and control
 
 
 
