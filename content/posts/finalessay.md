@@ -58,8 +58,6 @@ We walked the body in the cart down to the edge of the river. The hermit walked 
 
 
 
-# In the book *The Yellow Birds* by Kevin Powers, violence is described as a vicious cycle, caused by the need to preserve ones mind against the horrors of war, as well as the need for dominance and control
-
 
 
 
