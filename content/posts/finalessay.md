@@ -1,6 +1,6 @@
 # In the book *The Yellow Birds* by Kevin Powers, violence is described as a vicious cycle, caused by the need to preserve ones mind against the horrors of war, as well as the need for dominance and control.
 
-
+Nothing seemed more natural than someone getting killed. And now, as I reflect on how I felt and behaved as a boy of twenty-one from my position of safety in a warm cabin above a clear stream in the Blue Ridge, I can only tell myself that it was necessary.
 
 Vicious Cycle
 
