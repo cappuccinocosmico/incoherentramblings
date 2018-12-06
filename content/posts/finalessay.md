@@ -50,6 +50,27 @@ Need For Violence and Control
 23
 >The girl ducked behind the building, then emerged again, this time shuffling toward the old woman very slowly. She tried dragging the body, and her face contorted with effort as she pulled the old woman by her one complete arm. The girl described circles into the fine dust as she paced around the body. The path they made was marked in blood: from the car smoking and ablaze, through a courtyard ringed by hyacinths, to the place where the woman lay dead, attended by the small child, who rocked and moved her lips, perhaps singing some desert elegy that I couldn’t hear.
 
+In the novel Bartle comes to understand how the cycle of violence perpetuates itself.
+
+John Irving’s main character Garp was ignorant to the problems that come
+with misunderstanding the difference and relationship between love and lust; and this
+almost lead to his relationship crashing against the shore and disintegrating. Ever
+since a young age, Jenny Fields had warned him about lust, but Garp and many of
+the other characters saw it as “a man’s problem,” which lead to his inability to
+balance love and lust and severe problems in both his marriage and family. inability
+to balance love and lust and severe problems in both his marriage and family. From
+Garp’s encounter’s with Cushie, Alice, and the baby sitter, John Irving is
+clearly expressing how lust is more about physical gratification and the
+selfish desires of the individual. Whereas, the enduring relationship that he
+and Helen have, shows how love requires patience, kindness, and the ability
+to put one’s own needs second to the other individual. Even though these
+emotions seem to be contradictory or working against each other, the reader
+also sees through Garp and Helen’s marriage that both emotions need to be
+present in order for it to be successful. The novel The World According to
+Garp, by John Irving, is a controversial novel that deals with the complex
+relationship of love and lust; one is a kind, caring, and selfless emotion, yet
+the other immediate, selfish and egocentric, yet they both need to be
+present and work together.
 <!-- The story starts off with describing the family situation of the main character Connie, is describing the relationship with her mother and her mothers sisters specificly how unnaccepting they are of connie bu constantly comparing her to her sister.
 "Connie had to hear her praised all the time by her mother and her mother's sisters. June did this, June did that, she saved money and helped clean the house and cooked and Connie couldn't do a thing, her mind was all filled with trashy daydreams" *Oates 1*.
 In this one quote it shows how abuse and unnacceptance have damanged the family dynamic. It damages Connie, by comparing her to her sister, they are causing an unhealthy family dynamic But this isnt all, there are a lot of instances of neglect and abandonment by the father who "
