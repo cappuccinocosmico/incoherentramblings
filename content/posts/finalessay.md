@@ -50,7 +50,9 @@ Need For Violence and Control
 23
 >The girl ducked behind the building, then emerged again, this time shuffling toward the old woman very slowly. She tried dragging the body, and her face contorted with effort as she pulled the old woman by her one complete arm. The girl described circles into the fine dust as she paced around the body. The path they made was marked in blood: from the car smoking and ablaze, through a courtyard ringed by hyacinths, to the place where the woman lay dead, attended by the small child, who rocked and moved her lips, perhaps singing some desert elegy that I couldn’t hear.
 
-In the novel Bartle comes to understand how the cycle of violence perpetuates itself.
+In the novel Bartle comes to understand how the cycle of violence perpetuates itself. This is most clearly demonstrated in the fact that Bart both witnesses the oposing side commiting violence
+
+
 
 John Irving’s main character Garp was ignorant to the problems that come
 with misunderstanding the difference and relationship between love and lust; and this
